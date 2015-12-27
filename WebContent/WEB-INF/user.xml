@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	
+	
+	
+	
+	
+	<user id="001">
+		
+		
+		
+		
+		
+		<username>admin</username>
+		
+		
+		
+		
+		
+		<password>dfdfd</password>
+		
+		
+		
+		
+		
+		<pid>00</pid>
+	
+	
+	
+	
+	
+	</user>
+	
+	
+	
+	
+	<user id="001">		
+		
+		
+		
+		<username>admin</username>
+		
+		
+		
+		
+		<password>dfdf</password>
+		
+		
+		
+		
+		<pid>00</pid>
+	
+	
+	
+	
+	</user>
+	
+	
+	
+	<user id="001">		
+		
+		
+		<username>admin</username>
+		
+		
+		
+		<password>dfdf</password>
+		
+		
+		
+		<pid>00</pid>
+	
+	
+	
+	</user>
+	
+	
+	<user id="001">		
+		
+		<username>admin</username>
+		
+		
+		<password>345566</password>
+		
+		
+		<pid>00</pid>
+	
+	
+	</user>
+	
+	<user id="001">		
+		<username>admin</username>
+		
+		<password>haha</password>
+		
+		<pid>00</pid>
+	
+	</user>
+	<user id="001">		<username>admin</username>
+		<password>dgdg</password>
+		<pid>00</pid>
+	</user>
+</root>
